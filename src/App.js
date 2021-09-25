@@ -1,5 +1,6 @@
 import './App.css';
 import Cadastro from './components/Cadastro';
+import './extensions/boostrapTooltips';
 
 function App() {
   return (
